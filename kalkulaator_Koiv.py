@@ -47,5 +47,5 @@ while True:
         print('Sisesta uuesti üks liitmise operaator')
         break
 
-
+#1514
 
